@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: loggingproject
+
+    spring:
+  profiles:
+    active: dev
